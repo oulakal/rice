@@ -1,2 +1,0 @@
-# rice
-pink and purple
