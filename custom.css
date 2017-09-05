@@ -1,0 +1,45 @@
+#main > div.toolbar-addressbar.search.toolbar > div.iconmenu-container.searchfield, #main > div.toolbar-addressbar.search.toolbar > div.toolbar > button.button-toolbar.reload, #main > div.toolbar-addressbar.search.toolbar > div.toolbar, .audioicon, .button-badge, .button-toolbar.home, #tabs-container > div.trash > button, #tabs-container > div.resize > div > button, #titlebar > button, .addressfield-siteinfo.secure, .addressfield-siteinfo, .siteinfo-symbol > svg, .favicon, .close, .button-addressfield
+{display:none;}
+
+#tabs-container > div.resize
+{
+margin-left: -24px;
+margin-top: -6px;
+margin-bottom: -34px;
+height: 30px;
+}
+
+#header {height: 30px;}
+
+.addressfield {border: none !important;}
+
+.address-bottom .toolbar-addressbar, .address-bottom .toolbar-mailbar
+{box-shadow: none !important;}
+
+.tab {margin-right: 10px !important;}
+
+.color-behind-tabs-on, #tabs-container
+{
+background-color: #171b33 !important;
+color: #171b33 !important;
+fill: #171b33 !important;
+}
+
+/*tabit*/
+.tab.active 
+{
+border-bottom: dashed 2px #b77ba8 !important;
+height: 28px !important;
+opacity: 1 !important;
+}
+.title
+{
+color: #e8e8e8 !important;
+margin: 0 9px 0 6px !important;
+opacity: 0.6;
+}
+
+.tab-position, .tab {background-color: #171b33 !important;}
+
+/*url palkki*/
+input.url {color: #e8e8e8 !important;}
